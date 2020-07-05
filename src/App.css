@@ -76,7 +76,7 @@ button {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: white;
+  background-color: rgb(38, 31, 44);
 }
 
 .container-score {
